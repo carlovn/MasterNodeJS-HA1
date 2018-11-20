@@ -1,2 +1,2 @@
-# MasterNodeJS-HA1
-This is the first Homework Assignment from the MasterNodeJS course from Pirple
+# MasterNodeJS-Homework Assignments
+This repository contains all my homework assignments for the NodeJS Master Class from Pirple. Each folder will contain a separate assignment.
